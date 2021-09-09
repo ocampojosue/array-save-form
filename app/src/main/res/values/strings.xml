@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agenda 2021</string>
+    <string name="username">Nombre Completo</string>
+    <string name="email">Correo Electrónico</string>
+</resources>
